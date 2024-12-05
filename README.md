@@ -39,8 +39,10 @@ Play 10,000+ free online games instantly on PlayXia Games. We carefully curate a
 
 > Regular updates bringing fresh and exciting gaming experiences!
 
-- 🆕 [Sprunki]
-- 🆕 [Grand Skibidi Town 2]
+- 🆕 [Sprunki] - [Play](https://www.playxia.com/game/sprunki)
+- 🆕 [Knife Flip] - [Play](https://www.playxia.com/game/knife-flip)
+- 🆕 [Tower Twist] - [Play](https://www.playxia.com/game/tower-twist)
+- 🆕 [Tic Tac Toe 11] - [Play](https://www.playxia.com/game/tic-tac-toe-11)
 
 ## 🔗 Quick Links
 
